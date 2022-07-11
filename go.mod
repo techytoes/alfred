@@ -1,4 +1,4 @@
-module alfred
+module github.com/techytoes/alfred
 
 go 1.17
 

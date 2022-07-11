@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "alfred/cmd"
+import "github.com/techytoes/alfred/cmd"
 
 func main() {
 	cmd.Execute()
